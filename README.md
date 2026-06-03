@@ -6,9 +6,9 @@ Independent ideas developed with Codex, packaged as final presentation artifacts
 
 | Idea | Type | Main Artifact | Visual Index | Supporting Files |
 | --- | --- | --- | --- | --- |
-| [LLM Memory Systems](#llm-memory-systems) | Research deck + academic poster | [PPTX](ideas/llm-memory-systems/deck.pptx) | [Deck preview](ideas/llm-memory-systems/deck-preview.png), [poster preview](ideas/llm-memory-systems/poster-preview.png) | [Research notes](ideas/llm-memory-systems/research-notes.md), [poster PDF](ideas/llm-memory-systems/poster.pdf), [A0 poster](ideas/llm-memory-systems/poster-a0.pdf) |
-| [LLM Memory Imagegen Academic Deck](#llm-memory-imagegen-academic-deck) | Image-heavy academic deck | [PPTX](ideas/llm-memory-imagegen-academic/deck.pptx) | [Contact sheet](ideas/llm-memory-imagegen-academic/contact-sheet.png), [deck preview](ideas/llm-memory-imagegen-academic/deck-preview.png) | Generated slide overview |
-| [NexusKin X01](#nexuskin-x01) | Concept product launch deck | [PPTX](ideas/nexuskin-x01/deck.pptx) | [Contact sheet](ideas/nexuskin-x01/contact-sheet.png) | [Source notes](ideas/nexuskin-x01/source-notes.md) |
+| [LLM Memory Systems](#llm-memory-systems) | Research deck + academic poster | [PPTX](llm-memory-systems/deck.pptx) | [Deck preview](llm-memory-systems/deck-preview.png), [poster preview](llm-memory-systems/poster-preview.png) | [Research notes](llm-memory-systems/research-notes.md), [poster PDF](llm-memory-systems/poster.pdf), [A0 poster](llm-memory-systems/poster-a0.pdf) |
+| [LLM Memory Imagegen Academic Deck](#llm-memory-imagegen-academic-deck) | Image-heavy academic deck | [PPTX](llm-memory-imagegen-academic/deck.pptx) | [Contact sheet](llm-memory-imagegen-academic/contact-sheet.png), [deck preview](llm-memory-imagegen-academic/deck-preview.png) | Generated slide overview |
+| [NexusKin X01](#nexuskin-x01) | Concept product launch deck | [PPTX](nexuskin-x01/deck.pptx) | [Contact sheet](nexuskin-x01/contact-sheet.png) | [Source notes](nexuskin-x01/source-notes.md) |
 
 ## Visual Index
 
@@ -18,47 +18,46 @@ A research-oriented deck and academic poster about the evolution of memory syste
 
 | Deck Preview | Poster Preview |
 | --- | --- |
-| [<img src="ideas/llm-memory-systems/deck-preview.png" alt="LLM Memory Systems deck preview" width="420">](ideas/llm-memory-systems/deck-preview.png) | [<img src="ideas/llm-memory-systems/poster-preview.png" alt="LLM Memory Systems poster preview" width="420">](ideas/llm-memory-systems/poster-preview.png) |
+| [<img src="llm-memory-systems/deck-preview.png" alt="LLM Memory Systems deck preview" width="420">](llm-memory-systems/deck-preview.png) | [<img src="llm-memory-systems/poster-preview.png" alt="LLM Memory Systems poster preview" width="420">](llm-memory-systems/poster-preview.png) |
 
 Artifacts:
 
-- [Download PowerPoint deck](ideas/llm-memory-systems/deck.pptx)
-- [Open academic poster PDF](ideas/llm-memory-systems/poster.pdf)
-- [Open A0 poster PDF](ideas/llm-memory-systems/poster-a0.pdf)
-- [Read research notes](ideas/llm-memory-systems/research-notes.md)
-- [Open poster HTML](ideas/llm-memory-systems/poster.html)
+- [Download PowerPoint deck](llm-memory-systems/deck.pptx)
+- [Open academic poster PDF](llm-memory-systems/poster.pdf)
+- [Open A0 poster PDF](llm-memory-systems/poster-a0.pdf)
+- [Read research notes](llm-memory-systems/research-notes.md)
+- [Open poster HTML](llm-memory-systems/poster.html)
 
 ### LLM Memory Imagegen Academic Deck
 
 An image-heavy academic presentation exploring the same LLM memory theme through generated visual slides.
 
-[<img src="ideas/llm-memory-imagegen-academic/contact-sheet.png" alt="LLM Memory Imagegen Academic Deck contact sheet" width="900">](ideas/llm-memory-imagegen-academic/contact-sheet.png)
+[<img src="llm-memory-imagegen-academic/contact-sheet.png" alt="LLM Memory Imagegen Academic Deck contact sheet" width="900">](llm-memory-imagegen-academic/contact-sheet.png)
 
 Artifacts:
 
-- [Download PowerPoint deck](ideas/llm-memory-imagegen-academic/deck.pptx)
-- [Open contact sheet](ideas/llm-memory-imagegen-academic/contact-sheet.png)
-- [Open deck preview](ideas/llm-memory-imagegen-academic/deck-preview.png)
+- [Download PowerPoint deck](llm-memory-imagegen-academic/deck.pptx)
+- [Open contact sheet](llm-memory-imagegen-academic/contact-sheet.png)
+- [Open deck preview](llm-memory-imagegen-academic/deck-preview.png)
 
 ### NexusKin X01
 
 A product-launch style deck for a concept wearable device, built as an image-driven presentation.
 
-[<img src="ideas/nexuskin-x01/contact-sheet.png" alt="NexusKin X01 contact sheet" width="900">](ideas/nexuskin-x01/contact-sheet.png)
+[<img src="nexuskin-x01/contact-sheet.png" alt="NexusKin X01 contact sheet" width="900">](nexuskin-x01/contact-sheet.png)
 
 Artifacts:
 
-- [Download PowerPoint deck](ideas/nexuskin-x01/deck.pptx)
-- [Open contact sheet](ideas/nexuskin-x01/contact-sheet.png)
-- [Read source notes](ideas/nexuskin-x01/source-notes.md)
+- [Download PowerPoint deck](nexuskin-x01/deck.pptx)
+- [Open contact sheet](nexuskin-x01/contact-sheet.png)
+- [Read source notes](nexuskin-x01/source-notes.md)
 
 ## Repository Structure
 
 ```text
-ideas/
-  llm-memory-systems/
-  llm-memory-imagegen-academic/
-  nexuskin-x01/
+llm-memory-systems/
+llm-memory-imagegen-academic/
+nexuskin-x01/
 ```
 
-Each folder is intended to stand alone as one idea, with the final `.pptx` and supporting preview or note files kept together.
+Each top-level folder is intended to stand alone as one idea, with the final `.pptx` and supporting preview or note files kept together.
