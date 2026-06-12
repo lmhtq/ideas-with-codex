@@ -1,63 +1,35 @@
 # ideas-with-codex
 
-Independent ideas developed with Codex, packaged as final presentation artifacts.
+An index of independent ideas developed with Codex. Each idea lives in its own repository with presentation files, visual previews, and supporting notes.
 
-## Quick Index
+## Projects
 
-| Idea | Type | Main Artifact | Visual Index | Supporting Files |
-| --- | --- | --- | --- | --- |
-| [LLM Memory Systems](#llm-memory-systems) | Research deck + academic poster | [PPTX](llm-memory-systems/deck.pptx) | [Deck preview](llm-memory-systems/deck-preview.png), [poster preview](llm-memory-systems/poster-preview.png) | [Research notes](llm-memory-systems/research-notes.md), [poster PDF](llm-memory-systems/poster.pdf), [A0 poster](llm-memory-systems/poster-a0.pdf) |
-| [LLM Memory Imagegen Academic Deck](#llm-memory-imagegen-academic-deck) | Image-heavy academic deck | [PPTX](llm-memory-imagegen-academic/deck.pptx) | [Contact sheet](llm-memory-imagegen-academic/contact-sheet.png), [deck preview](llm-memory-imagegen-academic/deck-preview.png) | Generated slide overview |
-| [NexusKin X01](#nexuskin-x01) | Concept product launch deck | [PPTX](nexuskin-x01/deck.pptx) | [Contact sheet](nexuskin-x01/contact-sheet.png) | [Source notes](nexuskin-x01/source-notes.md) |
+| Project | Theme | Repository | Presentation |
+| --- | --- | --- | --- |
+| [LLM Memory Systems](#llm-memory-systems) | Research and visual exploration of memory architectures for LLMs | [Repository](https://github.com/lmhtq/llm-memory-systems) | [Research deck](https://github.com/lmhtq/llm-memory-systems/blob/main/research-deck/deck.pptx), [imagegen deck](https://github.com/lmhtq/llm-memory-systems/blob/main/imagegen-academic-deck/deck.pptx) |
+| [NexusKin X01](#nexuskin-x01) | Image-driven wearable and personal AI product concept | [Repository](https://github.com/lmhtq/nexuskin-x01) | [Product launch deck](https://github.com/lmhtq/nexuskin-x01/blob/main/deck.pptx) |
 
-## Visual Index
+## LLM Memory Systems
 
-### LLM Memory Systems
+A visual research project about how memory for large language models is evolving, from context windows and retrieval-augmented generation to agent memory, parameter adaptation, neural memory, and memory-centric architectures.
 
-A research-oriented deck and academic poster about the evolution of memory systems for LLMs, covering context windows, RAG, long-term memory, agent memory, LoRA-style adaptation, and emerging memory architectures.
+[<img src="https://raw.githubusercontent.com/lmhtq/llm-memory-systems/main/imagegen-academic-deck/contact-sheet.png" alt="LLM Memory Systems presentation contact sheet" width="900">](https://github.com/lmhtq/llm-memory-systems)
 
-| Deck Preview | Poster Preview |
-| --- | --- |
-| [<img src="llm-memory-systems/deck-preview.png" alt="LLM Memory Systems deck preview" width="420">](llm-memory-systems/deck-preview.png) | [<img src="llm-memory-systems/poster-preview.png" alt="LLM Memory Systems poster preview" width="420">](llm-memory-systems/poster-preview.png) |
+- [Open project repository](https://github.com/lmhtq/llm-memory-systems)
+- [Download the research deck](https://raw.githubusercontent.com/lmhtq/llm-memory-systems/main/research-deck/deck.pptx)
+- [Download the imagegen academic deck](https://raw.githubusercontent.com/lmhtq/llm-memory-systems/main/imagegen-academic-deck/deck.pptx)
+- [Read the research notes](https://github.com/lmhtq/llm-memory-systems/blob/main/research-deck/research-notes.md)
 
-Artifacts:
+## NexusKin X01
 
-- [Download PowerPoint deck](llm-memory-systems/deck.pptx)
-- [Open academic poster PDF](llm-memory-systems/poster.pdf)
-- [Open A0 poster PDF](llm-memory-systems/poster-a0.pdf)
-- [Read research notes](llm-memory-systems/research-notes.md)
-- [Open poster HTML](llm-memory-systems/poster.html)
+An image-driven product launch concept for a wearable device imagined around personal intelligence, ambient interaction, and a persistent relationship between user and AI.
 
-### LLM Memory Imagegen Academic Deck
+[<img src="https://raw.githubusercontent.com/lmhtq/nexuskin-x01/main/contact-sheet.png" alt="NexusKin X01 presentation contact sheet" width="900">](https://github.com/lmhtq/nexuskin-x01)
 
-An image-heavy academic presentation exploring the same LLM memory theme through generated visual slides.
+- [Open project repository](https://github.com/lmhtq/nexuskin-x01)
+- [Download the PowerPoint deck](https://raw.githubusercontent.com/lmhtq/nexuskin-x01/main/deck.pptx)
+- [Read the source notes](https://github.com/lmhtq/nexuskin-x01/blob/main/source-notes.md)
 
-[<img src="llm-memory-imagegen-academic/contact-sheet.png" alt="LLM Memory Imagegen Academic Deck contact sheet" width="900">](llm-memory-imagegen-academic/contact-sheet.png)
+## Repository Model
 
-Artifacts:
-
-- [Download PowerPoint deck](llm-memory-imagegen-academic/deck.pptx)
-- [Open contact sheet](llm-memory-imagegen-academic/contact-sheet.png)
-- [Open deck preview](llm-memory-imagegen-academic/deck-preview.png)
-
-### NexusKin X01
-
-A product-launch style deck for a concept wearable device, built as an image-driven presentation.
-
-[<img src="nexuskin-x01/contact-sheet.png" alt="NexusKin X01 contact sheet" width="900">](nexuskin-x01/contact-sheet.png)
-
-Artifacts:
-
-- [Download PowerPoint deck](nexuskin-x01/deck.pptx)
-- [Open contact sheet](nexuskin-x01/contact-sheet.png)
-- [Read source notes](nexuskin-x01/source-notes.md)
-
-## Repository Structure
-
-```text
-llm-memory-systems/
-llm-memory-imagegen-academic/
-nexuskin-x01/
-```
-
-Each top-level folder is intended to stand alone as one idea, with the final `.pptx` and supporting preview or note files kept together.
+`ideas-with-codex` is the portfolio index. Project files and their histories are maintained in the individual repositories linked above.
